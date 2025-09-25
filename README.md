@@ -208,19 +208,7 @@ All external libraries are loaded via CDN for better performance and reliability
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to:
-1. Fork the project
-2. Create a feature branch
-3. Submit a pull request
 
-## 📧 Contact
-
-For questions or support, please reach out through the website's contact form.
-
----
-
-**Built with ❤️ for the future of fashion technology**
 
 *Powered by AI and designed for tomorrow's fashion experiences*
